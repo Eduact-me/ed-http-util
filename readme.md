@@ -1,17 +1,17 @@
-# ed-http-util
+# @eduact/ed-http-util
 
 ## Installation
 
-`npm install --save ed-http-util`
+`npm install --save @eduact/ed-http-util`
 
 or using yarn
 
-`yarn add ed-http-util`
+`yarn add @eduact/ed-http-util`
 
 ## Usage
 
 ```javascript
-import Http from "ed-http-util"
+import Http from "@eduact/ed-http-util"
 
 Http.respond(
     responseObject: any,
